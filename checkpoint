@@ -1,0 +1,2 @@
+model_checkpoint_path: "kp=0.75,nl=2,th=0.95.ckpt"
+all_model_checkpoint_paths: "kp=0.75,nl=2,th=0.95.ckpt"
