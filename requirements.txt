@@ -114,7 +114,7 @@ spacy==1.8.2
 subprocess32==3.5.3
 tabulate==0.8.2
 tensorboard==1.10.0
-tensorflow==1.1.0
+tensorflow==1.15.4
 termcolor==1.1.0
 terminaltables==3.1.0
 thinc==6.5.2
