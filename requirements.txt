@@ -77,7 +77,7 @@ plac==0.9.6
 ply==3.11
 preshed==1.0.1
 prompt-toolkit==1.0.14
-protobuf==3.6.1
+protobuf==3.15.0
 Pygments==2.2.0
 PyHamcrest==1.9.0
 PyInquirer==1.0.2
